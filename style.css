@@ -1,0 +1,249 @@
+body{
+    margin: 0%;
+  
+}
+.main{
+    width: 100%;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;;
+    background-color: #fbfbfd;
+    
+}
+
+.header{
+    width: 100%;
+    height: 44px;
+    background-color: #333333;
+   position: fixed;
+   font-weight: 100;
+
+}
+.headlist{
+    
+    list-style: none;
+    font-size: 12px;
+    margin: 0px 120px;
+   
+}
+.headlist a{
+    text-decoration: none;
+    color: #D7D7D7;
+    
+}
+.headlist li{
+    display: inline-block;
+    padding: 8px 8px;
+    margin: 0px 8px;
+}
+.headlist i{
+    
+    font-size: 20px;
+}
+.headlist a:hover{
+    color: white;
+}
+#block{
+    width: 100%;
+    height: 44px;
+}
+.head{
+    width: 100%;
+    color: #1D1D1F;
+    text-align: center;
+    background-color: #F5F5F7;
+   font-size: 14px;
+  padding:14px 0px
+}
+.head text{
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+    #a{
+        
+        color: #06c;
+       padding: 0px 8px;
+       
+        text-decoration: none;
+    }
+   #a:hover{
+       text-decoration: underline;
+   }
+
+
+   .section{
+       width: 100%;
+
+   }
+   .one{
+       width: 100%;
+        
+   }
+   #onea{
+       background-color: #fbfbfd;
+       text-align: center;
+       margin-bottom: 20px;
+   }
+   
+   #b{
+       font-size: 50px;
+       line-height: 1;
+       font-weight: 500;
+   }
+   #c{
+       font-size: 26px;
+       line-height: 2;
+       word-spacing: 2px;
+       letter-spacing: 1px;
+
+   }
+   #d{
+       font-size: 19px;
+       line-height: 2;
+       word-spacing: 2px;
+       
+   }
+   .oneb{
+       padding-top: 20px;
+       width: 100%;
+       display: flex;
+       justify-content: center;
+       }
+
+       .two{
+           background-color: #35283C;
+           text-align: center;
+       }
+       .two h1{
+           color: whitesmoke;
+            padding-top: 25px;
+       }
+       #e{
+        font-size: 26px;
+        line-height: 2;
+        word-spacing: 2px;
+        letter-spacing: 1px;
+        color: #FCC2EB;
+       }
+       /* .four1{
+           float: left;
+           width: 50%;
+           background-color: #F5F5F7;
+       }
+       .four2{
+           width: 50%;
+           float: left;
+       }
+       #foura{
+        background-color: #fbfbfd;
+        text-align: center;
+        margin-bottom: 20px;
+    } */
+
+    .four{
+        width: 100%;
+    }
+    .six{
+        width: 50%;
+        float: left;
+    }
+    .seven{
+        width: 50%;
+        float: left;
+    }
+    .eight{
+        width: 100%;
+    }
+
+.footter{
+    background-color: #F5F5F7;
+}
+
+    .nine{
+        
+        color: #6e6e73;
+        padding: 0px 22px;
+        margin:0px 120px;
+        font-size: 12px;
+    }
+    .nine li{
+        list-style: none;
+        padding: 0px 0px 10px;
+        
+    }
+    .ninea li a{
+        text-decoration: none;
+    }
+    th{
+        text-align: left;
+        font-size: 15px;
+        padding-right: 100px;
+    }
+    .foot{
+    margin-top: 30px;
+    margin-left: 40px;
+    }
+    .foota{
+        padding-top: 40px;
+        width: 100%;
+        line-height: 2;
+    }
+    
+    .foota{
+     font-size: 12px;
+     
+    
+    }
+    .foota td:hover{
+        text-decoration: underline;
+    }
+
+    .nine a{
+        text-decoration: none;
+        color: #6e6e73;
+    }
+    .nine a:hover{
+        text-decoration:underline;
+    }
+    .ten1 a{
+        color: #6e6e73;
+    }
+    .last{
+        width: 30%;
+
+    }
+    .last1{
+        width: 60%;
+        display: inline-block;
+    }
+    .last1 a:hover{
+        text-decoration: underline;
+    }
+    .last2{
+        width: 10% ;
+
+    }
+    .last2 span:hovere{
+text-decoration: underline;
+    }
+    #ls {
+        display: flex;
+    }
+    .last1 a{
+        text-decoration: none;
+        color: #6e6e73;
+        
+    margin: 0px 3px 0px 3px;
+    padding: 0px 12px 0px 12px;
+    display: inline-block;
+    
+   
+    }
+    .x{
+        border-right: 1px solid grey;
+    }
+    .ls{
+        padding: 20px;
+    }
+    #lst{
+        padding: 34px 0px 27px;
+    }
